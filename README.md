@@ -1,4 +1,4 @@
-Android-UDP-motor-control
+Android-UDP-Stepper Motor-Control
 =========================
 
 An android client to control stepper motor using Arduino kit and Ethernet module using UDP
